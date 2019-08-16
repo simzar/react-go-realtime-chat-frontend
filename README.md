@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 # react-go-realtime-chat-frontend
 Frontend part of https://tutorialedge.net/projects/chat-system-in-go-and-react/ course
+
+
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> Initial commit from Create React App
+
